@@ -1,5 +1,5 @@
 {
-  "name": "@scrollswap-sdk",
+  "name": "swapinfo-sdk",
   "license": "MIT",
   "version": "1.0.0",
   "description": "🛠 An SDK for building applications on top of Uniswap.",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-sdk.git",
+  "repository": "https://github.com/l532857663/swapinfo.git",
   "keywords": [
     "uniswap",
     "ethereum"
